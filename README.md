@@ -4,7 +4,7 @@ Data Visualisation: Empowering Business with Effective Insights By Tata Internsh
 ### Framing the Business Scenario
 I should create eight questions that matter to our CEO and CMO.
 
-### Choose the Right Visualizatio
+### Choose the Right Visualization
 I will select the appropriate visualization for each of the previously formulated questions.
 
 ### Create Visualization in Tableau
