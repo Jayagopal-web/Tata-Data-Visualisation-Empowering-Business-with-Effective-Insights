@@ -14,3 +14,5 @@ I used Tableau for creating visualizations. Prior to that, I applied filters to 
 
 ### Sharing Insights and Analysis
 I have prepared a presentation and presented it to the stakeholders.
+![Tata Data Visualization](https://github.com/Jayagopal-web/Tata-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/66839291/3f5854ad-245a-4c98-9a58-218cfba9ff97)
+
